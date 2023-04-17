@@ -1,0 +1,22 @@
+#gameover {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+#gameover p, h2 {
+    margin-bottom: 1rem;
+}
+
+#gameover h2 {
+    font-size: 30px;
+}
+
+#gameover h3 {
+    font-weight: 400;
+}
+
+#gameover button {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}

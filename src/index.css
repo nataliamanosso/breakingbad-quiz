@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Barlow", sans-serif;
+  color: #ff7e2a;
+}
+
+body {
+min-height: 100vh;
+height: 100%;
+background-image: url('../src/img/bb3.gif');
+background-size: cover;
+}

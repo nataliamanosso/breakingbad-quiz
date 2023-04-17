@@ -1,0 +1,12 @@
+.container {
+    background-color: #ffffff;
+    padding: 2rem 6rem;
+    border-radius: 10px;
+}
+
+.container2 {
+    background-color: #ffffff;
+    padding: 1rem 1rem;
+    margin-top: 5rem;
+    border-radius: 10px;
+}
