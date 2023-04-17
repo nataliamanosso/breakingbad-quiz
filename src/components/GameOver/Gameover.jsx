@@ -3,7 +3,7 @@ import { useContext } from "react";
 import { QuizContext } from "../../context/quiz";
 
 
-import "./GameOver.css";
+import "../GameOver/Gameover.css";
 
 const GameOver = () => {
   const [quizState, dispatch] = useContext(QuizContext);
