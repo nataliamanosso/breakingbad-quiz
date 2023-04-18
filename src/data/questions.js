@@ -15,7 +15,7 @@ const data = [
         "México", 
         "Estados Unidos", 
         "Chile", 
-        "Uruguai"
+        "Uruguai",
       ],
       answer: "Chile",
     },
@@ -25,7 +25,7 @@ const data = [
         "Porque ele usava um ácido diferente na fabricação.", 
         "Porque ele usava metilanina na fabricação.",
         "Não tinha um motivo específico.", 
-        "Apenas porque ele quis deixar sua marca."
+        "Apenas porque ele quis deixar sua marca.",
       ],
       answer: "Porque ele usava metilanina na fabricação.",
     },
@@ -35,7 +35,7 @@ const data = [
         "Salão de beleza", 
         "Mercado", 
         "LavaCar", 
-        "Mecânica"
+        "Mecânica",
       ],
       answer: "LavaCar",
     },
@@ -46,7 +46,7 @@ const data = [
         "Narciso", 
         "Lírio-do-vale", 
         "Alho-selvagem", 
-        "Floco-de-neve"
+        "Floco-de-neve",
       ],
       answer: "Lírio-do-vale",
     },
@@ -57,7 +57,7 @@ const data = [
         "Tuco Salamanca", 
         "Gus Fring", 
         "Crazy8", 
-        "Todd"
+        "Todd",
       ],
       answer: "Crazy8",
     },
@@ -68,7 +68,7 @@ const data = [
         "Los Primos", 
         "Gus Fring", 
         "Tio do Todd", 
-        "Hector Salamanca"
+        "Hector Salamanca",
       ],
       answer: "Tio do Todd",
     },
@@ -79,7 +79,7 @@ const data = [
         "Jane", 
         "Holly", 
         "Marie", 
-        "Ryle"
+        "Ryle",
       ],
       answer: "Holly",
     },
@@ -90,7 +90,7 @@ const data = [
         "Canadá", 
         "Austrália", 
         "Califórnia", 
-        "Alaska"
+        "Alaska",
       ],
       answer: "Alaska",
     },

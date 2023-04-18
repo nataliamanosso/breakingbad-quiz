@@ -1,4 +1,3 @@
-// react, componentes, estáticos
 import { useContext, useEffect } from 'react';
 import { QuizContext } from './context/quiz';
 
@@ -13,7 +12,6 @@ function App() {
   const [quizState, dispatch] = useContext(QuizContext);
 
   useEffect(() => {
-    // embaralhar as perguntas
     dispatch({type: "REORDER_QUESTIONS"});
   }, []);
 
@@ -23,7 +21,7 @@ function App() {
       {quizState.gameStage === "Playing" && <Question />}
       {quizState.gameStage === "End" && <Gameover />}
     </div>
-  )
-}
+  );
+};
 
 export default App
