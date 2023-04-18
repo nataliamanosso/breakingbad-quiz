@@ -8,6 +8,7 @@ Com esse projeto consegui compreender diversos conceitos, como Provider, Context
 
 Esse é apenas meu primeiro projeto, já estou trabalhando em outro que vai abordar todos esses conceitos trazendo funcionalidades úteis em aplicações do dia a dia.
 
+
 Minhas fontes de estudo:
 
 Documentação: https://legacy.reactjs.org/docs/getting-started.html
@@ -18,3 +19,9 @@ Teve também outros posts e vídeos que assisti, mas esses foram os principais.
 
 
 Obrigada pela atenção! E se quiser me dar um feedback, fique à vontade.
+
+
+
+Créditos das artes: 
+desktop https://gifdb.com/gif/walter-white-truck-pixel-art-tsoit77l1v5cf20j.html
+mobile https://pin.it/49YUGe7
